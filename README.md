@@ -1,4 +1,4 @@
-# componentes
+# Primera App en Flutter como ejercicio.
 
 A new Flutter project.
 
